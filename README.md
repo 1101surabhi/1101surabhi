@@ -1,3 +1,4 @@
+![logo](https://github.com/1101surabhi/1101surabhi/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi, I'm Surabhi Agarwal</h1>
 <h3 align="center">A passionate Computer Science student from India.</h3>
 
